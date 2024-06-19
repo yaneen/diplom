@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html style="font-size: 16px;" lang="ru"><head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="Заказ​ы">
+    <meta name="description" content="">
+    <title>admin</title>
+    <link rel="stylesheet" href="nicepage.css" media="screen">
+<link rel="stylesheet" href="admin.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+    <meta name="generator" content="Nicepage 6.11.6, nicepage.com">
+    <meta name="referrer" content="origin">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+     
+
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": ""
+}</script>
+    <meta name="theme-color" content="#478ac9">
+    <meta property="og:title" content="admin">
+    <meta property="og:type" content="website">
+  <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
+  <body data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="ru"><header class="u-clearfix u-gradient u-header u-header" id="sec-650a"><div class="u-clearfix u-sheet u-sheet-1">
+        <a href="admin.php" class="u-btn u-button-style u-btn-1">Главная </a>
+        <div class="u-container-align-center u-container-style u-expanded-width u-grey-10 u-group u-group-1">
+          <div class="u-container-layout u-valign-middle u-container-layout-1">
+            <h2 class="u-align-center u-text u-text-default u-text-1">Заказ​ы</h2>
+          </div>
+        </div>
+      </div></header>
+    <section class="u-clearfix u-section-1" id="sec-364f">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <div class="u-container-style u-grey-5 u-group u-group-1">
+          <div class="u-container-layout u-container-layout-1">
+            <div class="u-container-style u-grey-10 u-group u-group-2">
+              <div class="u-container-layout u-container-layout-2">
+                <p class="u-align-center u-text u-text-default u-text-1">Статистика</p>
+              </div>
+            </div>
+            <div class="u-container-style u-grey-10 u-group u-group-3">
+              <div class="u-container-layout u-container-layout-3">
+                <p class="u-align-center u-text u-text-default u-text-2">Количество заказов</p>
+                <p class="u-align-center u-text u-text-default u-text-3">Месяц</p>
+                <p class="u-align-center u-text u-text-default u-text-4">День</p>
+                <p class="u-align-center u-text u-text-default u-text-5">56 </p>
+                <p class="u-align-center u-text u-text-default u-text-6">1891 </p>
+              </div>
+            </div>
+            <div class="u-container-style u-grey-10 u-group u-group-4">
+              <div class="u-container-layout u-container-layout-4">
+                <p class="u-align-center u-text u-text-default u-text-7">Выручка</p>
+                <p class="u-align-center u-text u-text-default u-text-8">День</p>
+                <p class="u-align-center u-text u-text-default u-text-9">Месяц</p>
+                <p class="u-align-center u-text u-text-default u-text-10">19600р </p>
+                <p class="u-align-center u-text u-text-default u-text-11">673196р </p>
+              </div>
+            </div>
+            <div class="u-container-style u-grey-10 u-group u-group-5">
+              <div class="u-container-layout u-container-layout-5">
+                <p class="u-align-center u-text u-text-default u-text-12">Средний чек</p>
+                <p class="u-align-center u-text u-text-default u-text-13">День</p>
+                <p class="u-align-center u-text u-text-default u-text-14">Месяц</p>
+                <p class="u-align-center u-text u-text-default u-text-15">356р </p>
+                <p class="u-align-center u-text u-text-default u-text-16">389р </p>
+              </div>
+            </div>
+            <div class="u-container-style u-grey-10 u-group u-group-6">
+              <div class="u-container-layout u-container-layout-6">
+                <p class="u-align-center u-text u-text-default u-text-17">Статистика по блюдам </p>
+              </div>
+            </div>
+            <div class="u-container-style u-grey-10 u-group u-group-7">
+              <div class="u-container-layout u-container-layout-7">
+                <p class="u-align-center u-text u-text-default u-text-18">Товар дня </p>
+              </div>
+            </div>
+            <div class="u-container-style u-grey-10 u-group u-group-8">
+              <div class="u-container-layout u-container-layout-8">
+                <p class="u-align-center u-text u-text-default u-text-19">Товар месяца&nbsp; </p>
+              </div>
+            </div>
+            <div class="u-container-style u-grey-10 u-group u-group-9">
+              <div class="u-container-layout u-container-layout-9">
+                <p class="u-align-center u-text u-text-default u-text-20">Худший товар </p>
+              </div>
+            </div>
+            <img class="u-border-7 u-border-grey-10 u-image u-image-default u-image-1" src="images/1703382002_mykaleidoscope-ru-p-vkusnaya-myasnaya-solyanka-vkontakte-5.jpg" alt="" data-image-width="2048" data-image-height="1365">
+            <img class="u-border-7 u-border-grey-10 u-image u-image-default u-image-2" src="images/1703382002_mykaleidoscope-ru-p-vkusnaya-myasnaya-solyanka-vkontakte-5.jpg" alt="" data-image-width="2048" data-image-height="1365">
+            <img class="u-border-7 u-border-grey-10 u-image u-image-default u-image-3" src="images/buter.jpg" alt="" data-image-width="850" data-image-height="850">
+          </div>
+        </div>
+        <div class="u-container-style u-grey-10 u-group u-group-10">
+          <div class="u-container-layout u-container-layout-10">
+            <a href="admin.php" class="u-btn u-button-style u-btn-1">Обзор </a>
+            <a href="menu.php" class="u-btn u-button-style u-btn-2">Меню </a>
+            <a href="sklad.php" class="u-btn u-button-style u-btn-3">Склад </a>
+            <a href="zakaz.php" class="u-btn u-button-style u-btn-4">Заказы </a>
+          </div>
+        </div>
+      </div>
+    </section>
+</body></html>
